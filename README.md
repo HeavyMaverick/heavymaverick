@@ -56,5 +56,6 @@
 ## Контакты для связи
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mercurytears)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.polyakov04@gmail.com)
 ## 📈 GitHub статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeavyMaverick&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyMaverick&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeavyMaverick&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyMaverick&layout=compact&theme=radical)
 ---
