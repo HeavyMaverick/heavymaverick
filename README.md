@@ -57,6 +57,12 @@
 
 > **Ключевая идея**: все внешние интеграции проходят через этот сервис, что позволяет централизованно управлять нагрузкой, отказоустойчивостью и observability.
 ---
+**Telegram Module** — клиентский микросервис-шлюз, который обеспечивает взаимодействие пользователей с системой через интерфейс Telegram
+
+Модуль аутентифицирует пользователей, применяет rate limiting на основе подписок, управляет контекстом диалогов и маршрутизирует запросы к Context Service для генерации ответов через LLM.
+
+> **Ключевая идея**: выступает многопоточным адаптером между Telegram API и внутренними сервисами, обеспечивая отказоустойчивую обработку запросов с гибкой системой лимитирования на основе подписок и graceful shutdown для бесшовного обновления.
+---
 ## Контакты для связи
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mercurytears)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.polyakov04@gmail.com)
 ## 📈 GitHub статистика
